@@ -57,28 +57,28 @@ c {
 
 @font-face {
   font-family: "roboto";
-  src: url("Fonts/roboto.ttf") format('truetype');
+  src: url("./Fonts/roboto.ttf") format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "robotomono";
-  src: url("Fonts/robotomono.ttf") format('truetype');
+  src: url("./Fonts/robotomono.ttf") format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "arkpixel";
-  src: url("Fonts/arkpixel.ttf") format('truetype');
+  src: url("./Fonts/arkpixel.ttf") format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "firacode";
-  src: url("Fonts/firacode.ttf") format('truetype');
+  src: url("./Fonts/firacode.ttf") format('truetype');
   font-weight: normal;
   font-style: normal;
 }
