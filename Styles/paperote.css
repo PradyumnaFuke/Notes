@@ -1,0 +1,77 @@
+body {
+  font-family: "firacode";
+  font-size: 13px;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+h3 {
+  font-family: "firacode";
+  color: #0050ff;
+}
+
+h4 {
+ color: #cfcfcf;
+}
+
+g {
+  font-weight: bold;
+  color: #0050FF;
+}
+
+footer {
+  font-family: 'firacode';
+  color: #0050ff;
+  font-size: 0.7em;
+}
+
+hr {
+  border: none;
+  border-top: 1.5px solid #ff5000;
+  border-bottom: 1.5px solid #ff5000;
+  width: 5%;
+}
+
+fn {
+  font-size: 0.7em;
+}
+
+i {
+  color: #ff00ff;
+}
+
+u {
+  color: #00ff00;
+}
+
+c {
+  color: #00ffff;
+}
+
+@font-face {
+  font-family: "roboto";
+  src: url("Fonts/roboto.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "robotomono";
+  src: url("Fonts/robotomono.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "arkpixel";
+  src: url("Fonts/arkpixel.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "firacode";
+  src: url("Fonts/firacode.ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
