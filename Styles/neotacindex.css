@@ -6,7 +6,7 @@ body {
 }
 
 h3 {
-  font-family: "firacode";
+  font-family: "robotomono";
   color: #2070ff;
 }
 
@@ -20,7 +20,7 @@ g {
 }
 
 footer {
-  font-family: 'firacode';
+  font-family: 'robotomono';
   color: white;
   font-size: 0.7em;
 }
