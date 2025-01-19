@@ -5,6 +5,9 @@ body {
   color: #3f3f3f;
 }
 
+body a {
+color: inherit;  
+}
 h3 {
   font-family: "robotomono";
   color: #2070ff;
