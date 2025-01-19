@@ -10,6 +10,10 @@ h3 {
   color: #2070ff;
 }
 
+h4 {
+ color: #ff7020;
+}
+
 h4 a {
  color: #ff7020;
 }
@@ -21,7 +25,7 @@ g {
 
 footer {
   font-family: 'robotomono';
-  color: white;
+  color: #2070ff;
   font-size: 0.7em;
 }
 /*
@@ -96,5 +100,6 @@ a:active {
 } 
 
 a {
+
   text-decoration: none;
 }
